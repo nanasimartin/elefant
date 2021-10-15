@@ -1,0 +1,15 @@
+
+.sz{
+    border:1px solid black;
+    padding: 14px;;
+    margin: 24px;
+    text-align: center;
+    box-shadow: 3px 3px 3px;
+    background-color: lightgrey;
+    font-family: fantasy;
+}
+
+.item.image{
+    filter: grayscale(100%);
+    transform: scale(1.1);
+}
